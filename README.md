@@ -2,7 +2,14 @@
 
 Disciplina: Internet das Coisas - Profª Salete Farias
 
-Aluna: Kaillane Martins
+Aluno: Laertty Lima
+Autora: Kaillane Martins
+
+# Autorização
+
+Este projeto é um fork do [repositório original](https://github.com/kaillanecmartins/monitoramento_de_bibliotecas). As alterações foram feitas com as devidas permissões da autora.
+- **Data**: 16/10/2026
+- **Canal de contato:** Whatsapp
 
 ## Descrição do Sistema
 
