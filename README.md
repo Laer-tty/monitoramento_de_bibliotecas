@@ -3,9 +3,10 @@
 Disciplina: Internet das Coisas - Profª Salete Farias
 
 Aluno: Laertty Lima
+
 Autora: Kaillane Martins
 
-# Autorização
+## Autorização
 
 Este projeto é um fork do [repositório original](https://github.com/kaillanecmartins/monitoramento_de_bibliotecas). As alterações foram feitas com as devidas permissões da autora.
 - **Data**: 16/10/2026
@@ -40,9 +41,8 @@ Como benefício adicional, o sistema também busca melhorar a experiência dos u
 ## Lista de Componentes
 
 - ESP32
-- Sensor IR (simulando um sensor de movimento)
-- Sensor de movimento PIR
-- 2 LEDs indicadores
+- 2 Sensores de movimento PIR
+- 4 LEDs indicadores (2 LEDS verdes e 2 LEDS vermelhos)
 - Sensor DHT11 (temperatura e umidade)
 
 ## Implementações Realizadas
@@ -59,11 +59,19 @@ Atualmente, o sistema possui as seguintes funcionalidades implementadas:
 
 <p align="center">
   <img src="https://github.com/kaillanecmartins/monitoramento_de_bibliotecas/blob/main/img/circuito.png?raw=true"
+       alt="Circuito original do projeto"
+       width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Laer-tty/monitoramento_de_bibliotecas/blob/main/img/circuito_novo.png?raw=true"
        alt="Circuito do projeto"
        width="400">
 </p>
 
-Acesse o [circuito no Wokwi](https://wokwi.com/projects/463128722414280705) para visualizar a simulação do projeto.
+Acesse o circuito no Wokwi para visualizar a simulação do projeto.
+- Circuito original -> https://wokwi.com/projects/463128722414280705
+- Circuito utilizado -> https://wokwi.com/projects/479078409332914177
 
 ## Instruções de Execução
 
